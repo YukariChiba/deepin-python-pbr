@@ -15,22 +15,7 @@ Build-Depends:
  python3-setuptools,
  python3-sphinx <!nodoc>,
 Build-Depends-Indep:
- python3-all-dev <!nocheck>,
- python3-coverage <!nocheck>,
- python3-fixtures <!nocheck>,
- python3-markupsafe <!nocheck>,
- python3-mock <!nocheck>,
- python3-openstackdocstheme <!nocheck>,
- python3-pip <!nocheck>,
- python3-six <!nocheck>,
  python3-sphinxcontrib.apidoc <!nodoc>,
- python3-stestr <!nocheck>,
- python3-testresources <!nocheck>,
- python3-testscenarios <!nocheck>,
- python3-testtools <!nocheck>,
- python3-virtualenv (>= 20.0) <!nocheck>,
- python3-wheel <!nocheck>,
- subunit <!nocheck>,
 Standards-Version: 4.4.1
 Rules-Requires-Root: no
 Vcs-Browser: https://salsa.debian.org/openstack-team/libs/python-pbr
